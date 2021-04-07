@@ -1,5 +1,7 @@
 # Ingress for Anthos demo
 
+## **DISCLAIMER : This repo is a cheat sheet, a lot of steps are missing for a full demo guide**
+
 We want here to assess multiple things through this demo :
 
 + How to easily create clusters through GKE
